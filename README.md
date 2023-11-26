@@ -1,12 +1,4 @@
-### The 21st century loop of life
-```rust
-loop {
-  eat();
-  game();
-  code();
-  sleep();
-}
-```
+### Eat 🍕 Game 🎮 Code 💻 Sleep 😴 Repeat
 
 ### Quotes
 
