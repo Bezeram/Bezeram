@@ -1,6 +1,5 @@
 ### The 21st century loop of life
-```
-// Rust
+```rust
 loop {
   eat();
   game();
