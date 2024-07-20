@@ -1,12 +1,5 @@
 ### Eat 🍕 Game 🎮 Code 💻 Sleep 😴 Repeat
 
-### Quotes
-
-> "If you're going through hell, keep going" - Winston Churchill<br>
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House<br>
-> "Chess is mental torture." - Garry Kasparov<br>
-> "One who knows, contradicts you. One who believes, kills you." - Claudiu Teohari, father of romanian standup comedy<br>
-
 <!--
 **Bezeram/Bezeram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
